@@ -1,0 +1,16 @@
+C:\Users\VITORHUGOCORTESMACED\Desktop\C#\CalculadoraWindows\bin\Debug\net8.0-windows\CalculadoraWindows.exe
+C:\Users\VITORHUGOCORTESMACED\Desktop\C#\CalculadoraWindows\bin\Debug\net8.0-windows\CalculadoraWindows.deps.json
+C:\Users\VITORHUGOCORTESMACED\Desktop\C#\CalculadoraWindows\bin\Debug\net8.0-windows\CalculadoraWindows.runtimeconfig.json
+C:\Users\VITORHUGOCORTESMACED\Desktop\C#\CalculadoraWindows\bin\Debug\net8.0-windows\CalculadoraWindows.dll
+C:\Users\VITORHUGOCORTESMACED\Desktop\C#\CalculadoraWindows\bin\Debug\net8.0-windows\CalculadoraWindows.pdb
+C:\Users\VITORHUGOCORTESMACED\Desktop\C#\CalculadoraWindows\obj\Debug\net8.0-windows\CalculadoraWindows.txtcalculadora.resources
+C:\Users\VITORHUGOCORTESMACED\Desktop\C#\CalculadoraWindows\obj\Debug\net8.0-windows\CalculadoraWindows.csproj.GenerateResource.cache
+C:\Users\VITORHUGOCORTESMACED\Desktop\C#\CalculadoraWindows\obj\Debug\net8.0-windows\CalculadoraWindows.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\VITORHUGOCORTESMACED\Desktop\C#\CalculadoraWindows\obj\Debug\net8.0-windows\CalculadoraWindows.AssemblyInfoInputs.cache
+C:\Users\VITORHUGOCORTESMACED\Desktop\C#\CalculadoraWindows\obj\Debug\net8.0-windows\CalculadoraWindows.AssemblyInfo.cs
+C:\Users\VITORHUGOCORTESMACED\Desktop\C#\CalculadoraWindows\obj\Debug\net8.0-windows\CalculadoraWindows.csproj.CoreCompileInputs.cache
+C:\Users\VITORHUGOCORTESMACED\Desktop\C#\CalculadoraWindows\obj\Debug\net8.0-windows\CalculadoraWindows.dll
+C:\Users\VITORHUGOCORTESMACED\Desktop\C#\CalculadoraWindows\obj\Debug\net8.0-windows\refint\CalculadoraWindows.dll
+C:\Users\VITORHUGOCORTESMACED\Desktop\C#\CalculadoraWindows\obj\Debug\net8.0-windows\CalculadoraWindows.pdb
+C:\Users\VITORHUGOCORTESMACED\Desktop\C#\CalculadoraWindows\obj\Debug\net8.0-windows\CalculadoraWindows.genruntimeconfig.cache
+C:\Users\VITORHUGOCORTESMACED\Desktop\C#\CalculadoraWindows\obj\Debug\net8.0-windows\ref\CalculadoraWindows.dll
